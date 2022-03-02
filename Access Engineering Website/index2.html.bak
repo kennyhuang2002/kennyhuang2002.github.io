@@ -1,0 +1,28 @@
+<html>
+<head>
+  <title>
+    More Persona Series
+  </title>
+  <link rel="stylesheet" href="index2.css"></link>
+<head/>
+
+ <div>
+   <h1>More Persona Series</h1>
+ </div>
+
+
+<body>
+
+  <div>
+    <p id = "person3anime">
+      Persona 3 The Movie
+    </p>
+    <img src="Persona3SpringofBirth.webp" height= 480 width= 480></img>
+    <img src="Persona3Movie2.jpg" height = 480 width = 780></img>
+  <div/>
+
+  <h1><h/1>
+    <a href="index.html">Back to Page 1</a>
+  <body/>
+
+<html/>
